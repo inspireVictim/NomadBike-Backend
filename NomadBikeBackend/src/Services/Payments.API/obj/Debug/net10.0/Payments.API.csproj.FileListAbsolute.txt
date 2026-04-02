@@ -1,0 +1,8 @@
+C:\projects\nomadbike\NomadBikeBackend\src\Services\Payments.API\obj\Debug\net10.0\Payments.API.csproj.AssemblyReference.cache
+C:\projects\nomadbike\NomadBikeBackend\src\Services\Payments.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\projects\nomadbike\NomadBikeBackend\src\Services\Payments.API\obj\Debug\net10.0\Payments.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\nomadbike\NomadBikeBackend\src\Services\Payments.API\obj\Debug\net10.0\Payments.API.AssemblyInfoInputs.cache
+C:\projects\nomadbike\NomadBikeBackend\src\Services\Payments.API\obj\Debug\net10.0\Payments.API.AssemblyInfo.cs
+C:\projects\nomadbike\NomadBikeBackend\src\Services\Payments.API\obj\Debug\net10.0\Payments.API.csproj.CoreCompileInputs.cache
+C:\projects\nomadbike\NomadBikeBackend\src\Services\Payments.API\obj\Debug\net10.0\Payments.API.MvcApplicationPartsAssemblyInfo.cs
+C:\projects\nomadbike\NomadBikeBackend\src\Services\Payments.API\obj\Debug\net10.0\Payments.API.MvcApplicationPartsAssemblyInfo.cache

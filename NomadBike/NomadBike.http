@@ -1,0 +1,6 @@
+@NomadBike_HostAddress = http://localhost:5063
+
+GET {{NomadBike_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
